@@ -3,7 +3,7 @@
 
 ## 1.getHomeAllData返回数据形式大致如下
 
-```Json
+```
 [
   HomeBean {
     title: '最新更新',
@@ -40,7 +40,7 @@
 
 ## 2.getAnimeDetail返回数据形式如下
 
-```json
+```
 Map(7) {
   '周一' => [
     AnimeBean {
@@ -111,7 +111,7 @@ Map(7) {
 
 ## 3.getAnimeDetail()函数的返回数据形式
 
-```json
+```
 AnimeDetailBean {
   anime: AnimeBean {
     title: '海贼王 红发歌姬',
@@ -150,7 +150,7 @@ AnimeDetailBean {
 
 ## 4.getSearchData函数的返回数据形式
 
-```json
+```
 [
   AnimeBean {
     title: '航海王总集篇',
@@ -175,7 +175,7 @@ AnimeDetailBean {
 
 ## 5.getVideoUrl函数的返回数据形式
 
-```json
+```
 "https://s16.larksuitecdn.com/oUEu9BbDuQJQlCgJRI.........."//视频地址
 ```
 
